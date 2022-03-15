@@ -1,1 +1,17 @@
 /* Styles Go Here */
+body {
+    background-color: #373737;
+    color: white;
+    text-align: center;
+}
+
+.contact-item {
+    border: 1px solid white;
+    width: 50%;
+    margin: auto;
+
+}
+
+img {
+    border-radius: 150px;
+}
